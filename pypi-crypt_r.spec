@@ -7,7 +7,7 @@
 #
 Name     : pypi-crypt_r
 Version  : 3.13.1
-Release  : 3
+Release  : 4
 URL      : https://files.pythonhosted.org/packages/18/ec/23c7745f9e8fae4ee0309aa2220258902e35a01bcace636223150e00bee8/crypt_r-3.13.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/18/ec/23c7745f9e8fae4ee0309aa2220258902e35a01bcace636223150e00bee8/crypt_r-3.13.1.tar.gz
 Summary  : A copy of the `crypt` module that was removed in Python 3.13
